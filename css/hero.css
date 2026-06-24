@@ -1,5 +1,6 @@
 .hero {
   background-color: #2e2f42;
+  padding: 188px 0;
 }
 .hero .container .maintitle {
   font-weight: 700;
@@ -34,8 +35,4 @@
 }
 .hero .orderbutton {
   cursor: pointer;
-}
-
-.hero .container {
-  padding: 188px 0;
 }

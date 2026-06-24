@@ -1,5 +1,6 @@
 .team {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 .team .teammates {
   background-color: #fff;
@@ -36,13 +37,13 @@
   gap: 24px;
 }
 
-.team .container {
-  padding: 120px 0;
-}
-
 .team .teamcontainer {
   display: flex;
   flex-direction: column;
   gap: 8px;
   padding: 32px 16px;
+}
+
+.team .teamimage {
+  display: block;
 }

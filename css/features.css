@@ -18,6 +18,10 @@
   gap: 24px;
 }
 
-.features .container {
+.features .featuresitems {
+  width: calc((100% - 3 * 24px) / 4);
+}
+
+.features {
   padding: 120px 0;
 }
